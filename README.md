@@ -1,0 +1,4 @@
+- 👋 Hi, I’m atlet
+- 👀 I’m interested in cybersecurity, JS
+- 🌱 I’m currently learning Javascript and Python
+- 📫 How to reach me - add me on atletiSKo#5295
